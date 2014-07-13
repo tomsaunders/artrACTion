@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>	
+  <string name="achievement_first_step">CgkI1528o6IGEAIQAQ</string>
+  <string name="achievement_one_down">CgkI1528o6IGEAIQAg</string>
+  <string name="achievement_found_five">CgkI1528o6IGEAIQAw</string>
+  <string name="achievement_top_ten">CgkI1528o6IGEAIQBA</string>
+  <string name="achievement_north">CgkI1528o6IGEAIQBQ</string>
+  <string name="achievement_east">CgkI1528o6IGEAIQBg</string>
+  <string name="achievement_south">CgkI1528o6IGEAIQBw</string>
+  <string name="achievement_west">CgkI1528o6IGEAIQCA</string>
+</resources>
